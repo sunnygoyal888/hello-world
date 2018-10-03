@@ -1,4 +1,5 @@
 # hello-world
 Hello World!
-This is a hello-world repository.
-######My New PR
+
+This is my new repo for learning of PR for new open source projects.
+
