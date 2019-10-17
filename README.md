@@ -121,14 +121,13 @@ Or vim:
 After running the git commit command, depending on the default text editor you’re using, your terminal window should display a document ready for you to edit that will look similar to this:
 GNU nano 2.0.6 File: …username/repository/.git/COMMIT_EDITMSG
 
-# Please enter the commit message for your changes. Lines starting
-# with '#' will be ignored, and an empty message aborts the commit.
-# On branch new-branch
-# Your branch is up-to-date with 'origin/new-branch'.
-#
-# Changes to be committed:
-#       modified:   new-feature.py
-#
+Please enter the commit message for your changes. Lines starting
+with '#' will be ignored, and an empty message aborts the commit.
+On branch new-branch
+Your branch is up-to-date with 'origin/new-branch'.
+
+Changes to be committed:
+       modified:   new-feature.py
 
 Underneath the introductory comments, you should add the commit message to the text file.
 
