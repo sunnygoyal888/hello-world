@@ -1,6 +1,7 @@
 # hello-world
 Hello World!
 
+
 Create a Copy of the Repository
 
 A repository, or repo for short, is essentially the main folder of a project. The repository contains all the relevant project files, including documentation, and also stores the revision history for each file. On GitHub, repositories can have multiple collaborators and can either be public or private.
@@ -256,3 +257,5 @@ GitHub will alert you that you are able to merge the two branches because there 
 
 At this point, the maintainers of the original repository will decide whether or not to accept your pull request. They may ask for you to edit or revise your code prior to accepting the pull request.
 
+=======
+This is my new repo for learning of PR for new open source projects.
